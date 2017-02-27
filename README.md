@@ -1,1 +1,1 @@
-# eCommerce-card-with-pure-CSS-HTML
+# eCommerce card with pure CSS-HTML
